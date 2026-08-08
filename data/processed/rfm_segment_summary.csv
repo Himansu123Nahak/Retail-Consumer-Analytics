@@ -1,0 +1,7 @@
+segment,customer_count,avg_recency,avg_frequency,avg_monetary,total_revenue
+At Risk,24447,108.71,5.56,242788.67,5935454530.0
+Champions,1,1.0,573.0,28608351.77,28608351.77
+Lost Customers,4950,1122.35,1.63,70089.75,346944254.29
+Loyal Customers,1,10.0,325.0,12862191.76,12862191.76
+Need Attention,17575,523.29,3.07,134071.9,2356313601.76
+Potential Loyalists,7,4.71,159.71,7383357.3,51683501.08
