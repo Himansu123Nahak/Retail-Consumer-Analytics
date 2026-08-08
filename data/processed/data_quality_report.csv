@@ -1,0 +1,13 @@
+check,records_flagged,pct_of_original
+Duplicate transaction_id,0,0.000%
+Null transaction_id,0,0.000%
+Null customer_id,0,0.000%
+Null product_id,0,0.000%
+Null store_id,0,0.000%
+Null transaction_date,0,0.000%
+Date out of business range,0,0.000%
+Quantity <= 0,0,0.000%
+Unit price <= 0,0,0.000%
+"Discount out of [0,1] range",0,0.000%
+Total amount mismatch (auto-corrected),0,0.000%
+"Extreme total_amount (>99.9th pctile, kept)",200,0.100%
