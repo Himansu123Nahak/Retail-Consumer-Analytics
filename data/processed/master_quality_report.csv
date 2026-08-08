@@ -1,0 +1,7 @@
+table,raw_records,clean_records,removed,retention_%,null_cells,duplicate_rows
+transactions,200000,200000,0,100.0,0,0
+customers,50000,50000,0,100.0,0,0
+products,5000,5000,0,100.0,0,0
+stores,200,200,0,100.0,0,0
+inventory,60000,60000,0,100.0,0,0
+marketing,100000,100000,0,100.0,0,0
