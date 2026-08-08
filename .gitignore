@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Secrets — NEVER commit
+.env
+
+# Large data files — regenerate with augment_to_scale.py + run_pipeline.py
+data/raw/
+data/processed/customers.csv
+data/processed/customers_clean.csv
+data/processed/transactions.csv
+data/processed/transactions_clean.csv
+data/processed/inventory.csv
+data/processed/inventory_clean.csv
+data/processed/marketing_campaigns.csv
+data/processed/products.csv
+data/processed/rfm_scores.csv
+
+# Keep these small summary CSVs in the repo:
+# data/processed/stores.csv               ← 200 rows, tiny
+# data/processed/products_clean.csv       ← 5000 rows, ~500KB
+# data/processed/rfm_segment_summary.csv  ← 6 rows
+# data/processed/master_quality_report.csv
+# data/processed/data_quality_report.csv
+# data/processed/customer_clv.csv
+
+# Generated charts (regenerate with run_pipeline.py)
+python/03_eda/charts/
+python/04_customer_analytics/*.png
+python/07_statistical_analysis/*.png
+
+# Generated report (regenerate with py python/build_html_report.py)
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Power BI lock files
+*.pbix.lock
