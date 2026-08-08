@@ -1,0 +1,201 @@
+store_id,store_name,store_type,city,state,region,store_size_sqft,opening_date,is_active
+STR0001,Delhi Standalone 1,Mall Outlet,Delhi,Delhi,North,21952,2011-01-24,1
+STR0002,Delhi Flagship 2,Superstore,Delhi,Delhi,North,8314,2012-12-04,1
+STR0003,Delhi Superstore 3,Mall Outlet,Delhi,Delhi,North,20349,2016-01-01,1
+STR0004,Delhi Flagship 4,Mall Outlet,Delhi,Delhi,North,8623,2018-10-01,1
+STR0005,Delhi Express 5,Mall Outlet,Delhi,Delhi,North,24462,2020-12-18,1
+STR0006,Delhi Superstore 6,Mall Outlet,Delhi,Delhi,North,15719,2019-05-26,1
+STR0007,Delhi Mall Outlet 7,Mall Outlet,Delhi,Delhi,North,23876,2016-06-09,1
+STR0008,Delhi Superstore 8,Standalone,Delhi,Delhi,North,12029,2011-02-13,1
+STR0009,Chandigarh Superstore 9,Express,Chandigarh,Punjab,North,12270,2019-05-26,1
+STR0010,Chandigarh Flagship 10,Standalone,Chandigarh,Punjab,North,18571,2011-07-03,1
+STR0011,Chandigarh Mall Outlet 11,Superstore,Chandigarh,Punjab,North,21599,2019-06-19,1
+STR0012,Chandigarh Standalone 12,Superstore,Chandigarh,Punjab,North,2501,2020-04-25,1
+STR0013,Chandigarh Express 13,Standalone,Chandigarh,Punjab,North,8628,2011-07-09,1
+STR0014,Chandigarh Standalone 14,Superstore,Chandigarh,Punjab,North,6329,2015-06-07,1
+STR0015,Chandigarh Mall Outlet 15,Mall Outlet,Chandigarh,Punjab,North,20960,2020-03-18,1
+STR0016,Chandigarh Flagship 16,Mall Outlet,Chandigarh,Punjab,North,16147,2016-05-21,1
+STR0017,Jaipur Superstore 17,Standalone,Jaipur,Rajasthan,North,23433,2015-01-08,1
+STR0018,Jaipur Flagship 18,Standalone,Jaipur,Rajasthan,North,14145,2014-02-07,1
+STR0019,Jaipur Express 19,Mall Outlet,Jaipur,Rajasthan,North,7967,2020-08-13,1
+STR0020,Jaipur Flagship 20,Flagship,Jaipur,Rajasthan,North,9679,2012-04-24,1
+STR0021,Jaipur Flagship 21,Express,Jaipur,Rajasthan,North,9609,2021-10-14,1
+STR0022,Jaipur Express 22,Superstore,Jaipur,Rajasthan,North,12861,2013-03-17,1
+STR0023,Jaipur Mall Outlet 23,Express,Jaipur,Rajasthan,North,2543,2011-03-21,1
+STR0024,Jaipur Flagship 24,Express,Jaipur,Rajasthan,North,20543,2011-07-13,1
+STR0025,Lucknow Superstore 25,Superstore,Lucknow,Uttar Pradesh,North,18338,2014-09-28,1
+STR0026,Lucknow Standalone 26,Superstore,Lucknow,Uttar Pradesh,North,23338,2018-05-25,1
+STR0027,Lucknow Superstore 27,Standalone,Lucknow,Uttar Pradesh,North,10617,2016-03-15,1
+STR0028,Lucknow Standalone 28,Flagship,Lucknow,Uttar Pradesh,North,17403,2012-09-04,1
+STR0029,Lucknow Mall Outlet 29,Flagship,Lucknow,Uttar Pradesh,North,20954,2013-03-12,1
+STR0030,Lucknow Express 30,Superstore,Lucknow,Uttar Pradesh,North,18378,2010-10-11,1
+STR0031,Lucknow Superstore 31,Mall Outlet,Lucknow,Uttar Pradesh,North,4665,2015-05-08,1
+STR0032,Lucknow Express 32,Superstore,Lucknow,Uttar Pradesh,North,19591,2011-02-24,1
+STR0033,Agra Express 33,Flagship,Agra,Uttar Pradesh,North,18455,2012-03-22,1
+STR0034,Agra Flagship 34,Express,Agra,Uttar Pradesh,North,6410,2014-09-28,1
+STR0035,Agra Mall Outlet 35,Standalone,Agra,Uttar Pradesh,North,7940,2018-12-23,1
+STR0036,Agra Express 36,Flagship,Agra,Uttar Pradesh,North,14074,2020-11-12,1
+STR0037,Agra Superstore 37,Standalone,Agra,Uttar Pradesh,North,15794,2011-04-08,1
+STR0038,Agra Flagship 38,Mall Outlet,Agra,Uttar Pradesh,North,1689,2019-09-08,1
+STR0039,Agra Superstore 39,Mall Outlet,Agra,Uttar Pradesh,North,1235,2011-12-21,1
+STR0040,Agra Flagship 40,Mall Outlet,Agra,Uttar Pradesh,North,3208,2010-06-03,1
+STR0041,Bengaluru Flagship 41,Mall Outlet,Bengaluru,Karnataka,South,10125,2020-08-07,1
+STR0042,Bengaluru Mall Outlet 42,Express,Bengaluru,Karnataka,South,24702,2019-10-16,1
+STR0043,Bengaluru Express 43,Standalone,Bengaluru,Karnataka,South,14338,2013-02-04,1
+STR0044,Bengaluru Superstore 44,Superstore,Bengaluru,Karnataka,South,14879,2016-08-28,1
+STR0045,Bengaluru Superstore 45,Mall Outlet,Bengaluru,Karnataka,South,2986,2016-12-11,1
+STR0046,Bengaluru Mall Outlet 46,Express,Bengaluru,Karnataka,South,7278,2013-09-15,1
+STR0047,Bengaluru Superstore 47,Express,Bengaluru,Karnataka,South,7012,2014-08-08,1
+STR0048,Bengaluru Flagship 48,Superstore,Bengaluru,Karnataka,South,19033,2011-01-21,1
+STR0049,Chennai Express 49,Express,Chennai,Tamil Nadu,South,4056,2013-03-14,1
+STR0050,Chennai Express 50,Superstore,Chennai,Tamil Nadu,South,8004,2016-01-06,1
+STR0051,Chennai Express 51,Flagship,Chennai,Tamil Nadu,South,13793,2014-08-10,1
+STR0052,Chennai Mall Outlet 52,Standalone,Chennai,Tamil Nadu,South,22688,2021-08-05,1
+STR0053,Chennai Flagship 53,Superstore,Chennai,Tamil Nadu,South,8133,2010-10-24,1
+STR0054,Chennai Express 54,Flagship,Chennai,Tamil Nadu,South,11276,2010-01-19,1
+STR0055,Chennai Superstore 55,Mall Outlet,Chennai,Tamil Nadu,South,18403,2012-01-17,1
+STR0056,Chennai Mall Outlet 56,Express,Chennai,Tamil Nadu,South,3245,2019-02-22,1
+STR0057,Hyderabad Flagship 57,Superstore,Hyderabad,Telangana,South,4928,2019-04-19,1
+STR0058,Hyderabad Flagship 58,Flagship,Hyderabad,Telangana,South,21295,2011-07-22,1
+STR0059,Hyderabad Standalone 59,Mall Outlet,Hyderabad,Telangana,South,18130,2015-05-07,1
+STR0060,Hyderabad Standalone 60,Express,Hyderabad,Telangana,South,9703,2016-03-22,1
+STR0061,Hyderabad Flagship 61,Flagship,Hyderabad,Telangana,South,11360,2011-01-15,1
+STR0062,Hyderabad Flagship 62,Standalone,Hyderabad,Telangana,South,4276,2011-09-07,1
+STR0063,Hyderabad Standalone 63,Standalone,Hyderabad,Telangana,South,5340,2015-02-08,1
+STR0064,Hyderabad Standalone 64,Flagship,Hyderabad,Telangana,South,6169,2017-09-23,1
+STR0065,Kochi Flagship 65,Standalone,Kochi,Kerala,South,22429,2018-01-22,1
+STR0066,Kochi Superstore 66,Superstore,Kochi,Kerala,South,22737,2011-03-09,1
+STR0067,Kochi Flagship 67,Mall Outlet,Kochi,Kerala,South,19128,2012-05-10,1
+STR0068,Kochi Standalone 68,Flagship,Kochi,Kerala,South,24514,2015-04-22,1
+STR0069,Kochi Express 69,Standalone,Kochi,Kerala,South,17008,2014-01-03,1
+STR0070,Kochi Mall Outlet 70,Standalone,Kochi,Kerala,South,2444,2010-06-25,1
+STR0071,Kochi Express 71,Flagship,Kochi,Kerala,South,6294,2021-08-18,1
+STR0072,Kochi Mall Outlet 72,Flagship,Kochi,Kerala,South,1316,2011-02-23,1
+STR0073,Coimbatore Mall Outlet 73,Express,Coimbatore,Tamil Nadu,South,2180,2015-10-18,1
+STR0074,Coimbatore Superstore 74,Standalone,Coimbatore,Tamil Nadu,South,5176,2010-05-12,1
+STR0075,Coimbatore Superstore 75,Standalone,Coimbatore,Tamil Nadu,South,7883,2020-04-22,1
+STR0076,Coimbatore Mall Outlet 76,Mall Outlet,Coimbatore,Tamil Nadu,South,19346,2016-10-24,1
+STR0077,Coimbatore Mall Outlet 77,Standalone,Coimbatore,Tamil Nadu,South,6324,2012-07-01,1
+STR0078,Coimbatore Mall Outlet 78,Standalone,Coimbatore,Tamil Nadu,South,14491,2020-12-26,1
+STR0079,Coimbatore Superstore 79,Express,Coimbatore,Tamil Nadu,South,6216,2021-02-13,1
+STR0080,Coimbatore Standalone 80,Mall Outlet,Coimbatore,Tamil Nadu,South,8288,2013-08-12,1
+STR0081,Mumbai Express 81,Standalone,Mumbai,Maharashtra,West,8304,2010-11-07,1
+STR0082,Mumbai Flagship 82,Express,Mumbai,Maharashtra,West,10129,2011-05-12,1
+STR0083,Mumbai Superstore 83,Standalone,Mumbai,Maharashtra,West,23266,2018-06-01,1
+STR0084,Mumbai Superstore 84,Flagship,Mumbai,Maharashtra,West,6851,2019-05-02,1
+STR0085,Mumbai Standalone 85,Express,Mumbai,Maharashtra,West,15239,2015-12-26,1
+STR0086,Mumbai Flagship 86,Mall Outlet,Mumbai,Maharashtra,West,20864,2018-02-13,1
+STR0087,Mumbai Superstore 87,Flagship,Mumbai,Maharashtra,West,9346,2010-12-14,1
+STR0088,Mumbai Mall Outlet 88,Standalone,Mumbai,Maharashtra,West,18643,2020-12-24,1
+STR0089,Pune Flagship 89,Standalone,Pune,Maharashtra,West,15132,2011-11-11,1
+STR0090,Pune Flagship 90,Standalone,Pune,Maharashtra,West,22737,2011-12-10,1
+STR0091,Pune Standalone 91,Flagship,Pune,Maharashtra,West,22852,2016-06-13,1
+STR0092,Pune Express 92,Mall Outlet,Pune,Maharashtra,West,5170,2013-07-22,1
+STR0093,Pune Flagship 93,Superstore,Pune,Maharashtra,West,21169,2019-05-13,1
+STR0094,Pune Flagship 94,Flagship,Pune,Maharashtra,West,10957,2014-04-14,1
+STR0095,Pune Express 95,Mall Outlet,Pune,Maharashtra,West,22453,2015-08-15,1
+STR0096,Pune Superstore 96,Standalone,Pune,Maharashtra,West,17750,2017-12-06,1
+STR0097,Ahmedabad Standalone 97,Superstore,Ahmedabad,Gujarat,West,17890,2020-11-20,1
+STR0098,Ahmedabad Mall Outlet 98,Mall Outlet,Ahmedabad,Gujarat,West,8696,2020-05-08,1
+STR0099,Ahmedabad Flagship 99,Superstore,Ahmedabad,Gujarat,West,1800,2010-04-16,1
+STR0100,Ahmedabad Mall Outlet 100,Express,Ahmedabad,Gujarat,West,15923,2016-11-19,1
+STR0101,Ahmedabad Superstore 101,Superstore,Ahmedabad,Gujarat,West,17199,2016-04-05,1
+STR0102,Ahmedabad Flagship 102,Express,Ahmedabad,Gujarat,West,14931,2013-03-26,1
+STR0103,Ahmedabad Superstore 103,Express,Ahmedabad,Gujarat,West,2645,2018-04-28,1
+STR0104,Ahmedabad Flagship 104,Flagship,Ahmedabad,Gujarat,West,5369,2017-11-17,1
+STR0105,Surat Flagship 105,Express,Surat,Gujarat,West,11397,2017-10-27,1
+STR0106,Surat Express 106,Express,Surat,Gujarat,West,18952,2017-03-24,1
+STR0107,Surat Flagship 107,Express,Surat,Gujarat,West,9493,2013-11-09,1
+STR0108,Surat Superstore 108,Standalone,Surat,Gujarat,West,21537,2013-05-15,1
+STR0109,Surat Flagship 109,Superstore,Surat,Gujarat,West,8683,2014-06-11,1
+STR0110,Surat Mall Outlet 110,Mall Outlet,Surat,Gujarat,West,5534,2012-04-13,1
+STR0111,Surat Flagship 111,Express,Surat,Gujarat,West,3104,2016-07-11,1
+STR0112,Surat Express 112,Express,Surat,Gujarat,West,14624,2010-04-27,1
+STR0113,Vadodara Flagship 113,Express,Vadodara,Gujarat,West,20139,2021-01-28,1
+STR0114,Vadodara Express 114,Express,Vadodara,Gujarat,West,16629,2010-06-10,1
+STR0115,Vadodara Flagship 115,Mall Outlet,Vadodara,Gujarat,West,18636,2021-12-18,1
+STR0116,Vadodara Express 116,Superstore,Vadodara,Gujarat,West,16998,2013-05-14,1
+STR0117,Vadodara Express 117,Mall Outlet,Vadodara,Gujarat,West,13742,2015-11-22,1
+STR0118,Vadodara Superstore 118,Express,Vadodara,Gujarat,West,16315,2012-10-18,1
+STR0119,Vadodara Superstore 119,Express,Vadodara,Gujarat,West,20395,2019-11-01,1
+STR0120,Vadodara Standalone 120,Express,Vadodara,Gujarat,West,5446,2017-03-02,1
+STR0121,Kolkata Standalone 121,Express,Kolkata,West Bengal,East,11726,2013-08-11,1
+STR0122,Kolkata Superstore 122,Express,Kolkata,West Bengal,East,10117,2016-05-27,1
+STR0123,Kolkata Standalone 123,Mall Outlet,Kolkata,West Bengal,East,1635,2021-09-02,1
+STR0124,Kolkata Superstore 124,Mall Outlet,Kolkata,West Bengal,East,22303,2011-11-02,1
+STR0125,Kolkata Mall Outlet 125,Mall Outlet,Kolkata,West Bengal,East,7532,2010-10-05,1
+STR0126,Kolkata Mall Outlet 126,Express,Kolkata,West Bengal,East,16517,2020-02-19,1
+STR0127,Kolkata Flagship 127,Flagship,Kolkata,West Bengal,East,23920,2014-06-06,1
+STR0128,Kolkata Superstore 128,Flagship,Kolkata,West Bengal,East,24539,2011-03-10,1
+STR0129,Bhubaneswar Express 129,Express,Bhubaneswar,Odisha,East,1841,2014-10-22,1
+STR0130,Bhubaneswar Mall Outlet 130,Superstore,Bhubaneswar,Odisha,East,24429,2013-02-19,1
+STR0131,Bhubaneswar Superstore 131,Flagship,Bhubaneswar,Odisha,East,23845,2014-11-20,1
+STR0132,Bhubaneswar Standalone 132,Superstore,Bhubaneswar,Odisha,East,2345,2015-09-14,1
+STR0133,Bhubaneswar Express 133,Express,Bhubaneswar,Odisha,East,17579,2020-06-01,1
+STR0134,Bhubaneswar Express 134,Mall Outlet,Bhubaneswar,Odisha,East,4458,2016-06-21,1
+STR0135,Bhubaneswar Standalone 135,Flagship,Bhubaneswar,Odisha,East,15270,2012-12-17,1
+STR0136,Bhubaneswar Flagship 136,Standalone,Bhubaneswar,Odisha,East,18634,2017-08-14,1
+STR0137,Patna Express 137,Mall Outlet,Patna,Bihar,East,11561,2013-02-09,1
+STR0138,Patna Express 138,Standalone,Patna,Bihar,East,16227,2019-10-22,1
+STR0139,Patna Express 139,Mall Outlet,Patna,Bihar,East,1940,2017-06-06,1
+STR0140,Patna Flagship 140,Standalone,Patna,Bihar,East,12626,2014-06-09,1
+STR0141,Patna Superstore 141,Mall Outlet,Patna,Bihar,East,19212,2010-09-07,1
+STR0142,Patna Mall Outlet 142,Express,Patna,Bihar,East,24595,2016-08-18,1
+STR0143,Patna Superstore 143,Superstore,Patna,Bihar,East,22164,2021-08-15,1
+STR0144,Patna Mall Outlet 144,Standalone,Patna,Bihar,East,10641,2013-07-23,1
+STR0145,Guwahati Flagship 145,Flagship,Guwahati,Assam,East,22756,2019-06-16,1
+STR0146,Guwahati Standalone 146,Standalone,Guwahati,Assam,East,12264,2016-12-18,1
+STR0147,Guwahati Standalone 147,Mall Outlet,Guwahati,Assam,East,24031,2017-05-10,1
+STR0148,Guwahati Superstore 148,Flagship,Guwahati,Assam,East,4953,2021-04-11,1
+STR0149,Guwahati Express 149,Standalone,Guwahati,Assam,East,23615,2012-04-07,1
+STR0150,Guwahati Standalone 150,Superstore,Guwahati,Assam,East,24743,2019-09-20,1
+STR0151,Guwahati Mall Outlet 151,Standalone,Guwahati,Assam,East,7360,2014-04-12,1
+STR0152,Guwahati Standalone 152,Superstore,Guwahati,Assam,East,1463,2021-09-05,1
+STR0153,Ranchi Mall Outlet 153,Express,Ranchi,Jharkhand,East,2786,2018-05-23,1
+STR0154,Ranchi Express 154,Express,Ranchi,Jharkhand,East,4361,2010-10-10,1
+STR0155,Ranchi Standalone 155,Express,Ranchi,Jharkhand,East,15433,2015-03-02,1
+STR0156,Ranchi Superstore 156,Flagship,Ranchi,Jharkhand,East,4738,2011-07-16,1
+STR0157,Ranchi Mall Outlet 157,Flagship,Ranchi,Jharkhand,East,21625,2020-01-05,1
+STR0158,Ranchi Flagship 158,Express,Ranchi,Jharkhand,East,10956,2011-04-04,1
+STR0159,Ranchi Flagship 159,Express,Ranchi,Jharkhand,East,20867,2019-10-08,1
+STR0160,Ranchi Flagship 160,Express,Ranchi,Jharkhand,East,15762,2017-05-28,1
+STR0161,Bhopal Flagship 161,Superstore,Bhopal,Madhya Pradesh,Central,11006,2019-10-02,1
+STR0162,Bhopal Superstore 162,Mall Outlet,Bhopal,Madhya Pradesh,Central,7808,2020-04-09,1
+STR0163,Bhopal Mall Outlet 163,Superstore,Bhopal,Madhya Pradesh,Central,8859,2012-09-03,1
+STR0164,Bhopal Express 164,Standalone,Bhopal,Madhya Pradesh,Central,14386,2017-12-20,1
+STR0165,Bhopal Standalone 165,Express,Bhopal,Madhya Pradesh,Central,2069,2013-05-23,1
+STR0166,Bhopal Flagship 166,Mall Outlet,Bhopal,Madhya Pradesh,Central,3332,2020-04-09,1
+STR0167,Bhopal Mall Outlet 167,Standalone,Bhopal,Madhya Pradesh,Central,14930,2011-09-08,1
+STR0168,Bhopal Standalone 168,Flagship,Bhopal,Madhya Pradesh,Central,5660,2011-01-06,1
+STR0169,Indore Express 169,Standalone,Indore,Madhya Pradesh,Central,19651,2014-08-04,1
+STR0170,Indore Flagship 170,Express,Indore,Madhya Pradesh,Central,23928,2016-05-17,1
+STR0171,Indore Express 171,Standalone,Indore,Madhya Pradesh,Central,15344,2011-10-02,1
+STR0172,Indore Mall Outlet 172,Flagship,Indore,Madhya Pradesh,Central,20782,2014-01-03,1
+STR0173,Indore Standalone 173,Flagship,Indore,Madhya Pradesh,Central,20238,2010-11-27,1
+STR0174,Indore Express 174,Standalone,Indore,Madhya Pradesh,Central,2318,2012-08-17,1
+STR0175,Indore Express 175,Superstore,Indore,Madhya Pradesh,Central,6947,2019-07-21,1
+STR0176,Indore Standalone 176,Superstore,Indore,Madhya Pradesh,Central,16401,2015-07-11,1
+STR0177,Nagpur Express 177,Standalone,Nagpur,Maharashtra,Central,6269,2015-07-23,1
+STR0178,Nagpur Express 178,Superstore,Nagpur,Maharashtra,Central,22711,2016-09-02,1
+STR0179,Nagpur Express 179,Flagship,Nagpur,Maharashtra,Central,11306,2014-06-04,1
+STR0180,Nagpur Express 180,Superstore,Nagpur,Maharashtra,Central,1037,2020-09-15,1
+STR0181,Nagpur Express 181,Express,Nagpur,Maharashtra,Central,7146,2018-06-20,1
+STR0182,Nagpur Mall Outlet 182,Standalone,Nagpur,Maharashtra,Central,2691,2013-05-18,1
+STR0183,Nagpur Superstore 183,Flagship,Nagpur,Maharashtra,Central,15356,2021-08-04,1
+STR0184,Nagpur Flagship 184,Superstore,Nagpur,Maharashtra,Central,8841,2021-03-10,1
+STR0185,Raipur Superstore 185,Express,Raipur,Chhattisgarh,Central,19096,2016-02-08,1
+STR0186,Raipur Standalone 186,Flagship,Raipur,Chhattisgarh,Central,4849,2020-03-16,1
+STR0187,Raipur Express 187,Express,Raipur,Chhattisgarh,Central,24114,2014-07-27,1
+STR0188,Raipur Express 188,Mall Outlet,Raipur,Chhattisgarh,Central,8986,2017-09-05,1
+STR0189,Raipur Superstore 189,Standalone,Raipur,Chhattisgarh,Central,20640,2018-12-05,1
+STR0190,Raipur Superstore 190,Standalone,Raipur,Chhattisgarh,Central,14596,2015-09-09,1
+STR0191,Raipur Express 191,Mall Outlet,Raipur,Chhattisgarh,Central,24791,2014-10-19,1
+STR0192,Raipur Standalone 192,Flagship,Raipur,Chhattisgarh,Central,15632,2018-08-12,1
+STR0193,Jabalpur Mall Outlet 193,Mall Outlet,Jabalpur,Madhya Pradesh,Central,18807,2016-08-11,1
+STR0194,Jabalpur Express 194,Superstore,Jabalpur,Madhya Pradesh,Central,19736,2016-04-28,1
+STR0195,Jabalpur Express 195,Express,Jabalpur,Madhya Pradesh,Central,11426,2021-08-23,1
+STR0196,Jabalpur Superstore 196,Mall Outlet,Jabalpur,Madhya Pradesh,Central,22747,2020-03-16,1
+STR0197,Jabalpur Superstore 197,Express,Jabalpur,Madhya Pradesh,Central,17459,2019-06-28,1
+STR0198,Jabalpur Mall Outlet 198,Express,Jabalpur,Madhya Pradesh,Central,4267,2018-08-01,1
+STR0199,Jabalpur Standalone 199,Standalone,Jabalpur,Madhya Pradesh,Central,22455,2012-02-16,1
+STR0200,Jabalpur Superstore 200,Standalone,Jabalpur,Madhya Pradesh,Central,21422,2021-07-21,1
